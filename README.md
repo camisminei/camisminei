@@ -1,7 +1,7 @@
 ## Olá! tudo bem? Eu sou a Camila Minei 👋
 
 Sou graduada em Engenharia de Software  e aluna de pós graduação 🎓<br>
-Apaixonada por design e desenvolvimento frontend 🩷<br>
+Apaixonada por Design e desenvolvimento Frontend 🩷<br>
 
 <div style="display: inline_block">
   <h4>Tecnologias que uso no meu dia: 
@@ -9,7 +9,7 @@ Apaixonada por design e desenvolvimento frontend 🩷<br>
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </h4>
-  <h4>Tecnologias estou aprendendo: 
+  <h4>Tecnologias que estou aprendendo: 
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   </h4>
